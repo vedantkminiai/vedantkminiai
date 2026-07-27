@@ -8,7 +8,7 @@ I enjoy building scalable software systems, designing ETL pipelines, and creatin
 
 # 💡 What I'm Working On
 
-### ⚡ Switchgear Analytics Data Pipeline @ S&C Electric
+### ⚡ Switchgear Analytics Data Pipeline @ S&C Electric Company
 
 Building a production ETL pipeline that automatically extracts Metal-Enclosed Switchgear data from REST APIs, cleans and transforms component information with Python, and loads structured data into Azure SQL databases for internal analytics and reporting.
 
