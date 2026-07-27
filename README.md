@@ -2,7 +2,7 @@
 
 🚀 I'm a 2nd Year Computer Science student at the **University of Toronto St. George** passionate about **Data Engineering & Analytics, Machine Learning, Full-Stack Development and Educational Software**.
 
-I enjoy building scalable software systems, designing ETL pipelines, and creating AI-powered applications that solve real-world problems. Whether it's automating industrial workflows, developing full-stack applications, or teaching AI through my non-profit, I'm always looking for opportunities to build impactful technology.
+I enjoy building scalable software systems, designing ETL pipelines, and creating AI-powered applications that solve real-world problems. Whether it's automating industrial workflows, developing full-stack applications, or teaching AI through my non-profit, I'm always looking for opportunities to build impactful technology. Currently, I'm undergoing a 4-month term as a Data Analytics Engineer Intern at S&C Electric Company, helping to maintain and improve the Sales dashboards. Additionally I operate as Co-founder and COO at MiniAI, an AI education startup developing accessible software tools for 1000+ students across North America.
 
 ---
 
@@ -10,12 +10,12 @@ I enjoy building scalable software systems, designing ETL pipelines, and creatin
 
 ### ⚡ Switchgear Analytics Data Pipeline @ S&C Electric
 
-Building a production ETL pipeline that automatically extracts Metal-Enclosed Switchgear data from REST APIs, cleans and transforms component information with Python, and loads structured data into SQL databases for internal analytics and reporting.
+Building a production ETL pipeline that automatically extracts Metal-Enclosed Switchgear data from REST APIs, cleans and transforms component information with Python, and loads structured data into Azure SQL databases for internal analytics and reporting.
 
 **Highlights**
 - Automated data collection from engineering APIs
 - Python ETL pipeline
-- SQL database integration
+- Azure SQL database integration
 - Power BI dashboard support
 - Improved internal reporting workflows
 
